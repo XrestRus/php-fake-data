@@ -31,4 +31,6 @@
   ]
   </pre>
 
+# [Пример](https://heroku-php-server-xrest.herokuapp.com/)
+
 # Размещен на [![](https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg)](https://www.heroku.com/home)
