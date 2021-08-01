@@ -12,7 +12,7 @@
   - Запустить сервер
 
 # API: 
-  Пример: http://localhost/php-fake-server/?filter=[title,contains,%D0%90]&sort=[title,asc]&paginate=[1,5]
+  Пример: http://localhost/php-fake-server/?filter=[count,more,30]&sort=[title,asc]&paginate=[1,5]
   <pre>
   filter = [
     filed,- поле
